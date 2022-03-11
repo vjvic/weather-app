@@ -1,3 +1,6 @@
 import Header from "./Header";
+import Weather from "./Weather";
+import CurrentInfo from "./CurrentInfo";
+import CurrentWeather from "./CurrentWeather";
 
-export { Header };
+export { Header, CurrentInfo, Weather, CurrentWeather };

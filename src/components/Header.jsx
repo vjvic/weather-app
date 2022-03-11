@@ -3,7 +3,7 @@ import { FaCloud } from "react-icons/fa";
 
 const Header = () => {
   return (
-    <header className="py-4 shadow-md">
+    <header className="py-4 mb-10 shadow-md">
       <div className="container flex items-center text-indigo-500">
         <FaCloud size={26} />
         <h1 className="text-2xl">Weatherapp</h1>
